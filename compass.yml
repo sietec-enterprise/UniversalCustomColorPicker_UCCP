@@ -1,0 +1,17 @@
+name: UniversalCustomColorPicker_UCCP
+id: ari:cloud:compass:0f05c2fa-79c0-4884-ae91-ff2f68f28123:component/681ed19a-5d97-4bfe-b456-abe41c35ed26/0df71fb2-7133-4cb7-964b-33675f424c00
+description: Color framework for Swift & Objective-C (Gradient colors, hexcode support, colors from images & more).
+configVersion: 1
+typeId: CLOUD_RESOURCE
+ownerId: ari:cloud:identity::team/292d1796-5a0f-4333-bf8f-92c782b57662
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/sietec-enterprise/UniversalCustomColorPicker_UCCP
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
